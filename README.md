@@ -1,0 +1,1 @@
+This is apparently a recipe project to test skills that have been learned so far. We'll see how it goes
